@@ -1,3 +1,5 @@
+Data Analytics | Power BI | SQL | PostgreSQL | Python | KPIs | Business Intelligence | Dashboard | Data Visualization | E-commerce Analytics
+
 📌 Project Title
 
 E-Commerce Intelligence System | SQL • Python • PostgreSQL • Power BI
@@ -92,6 +94,8 @@ Total Orders
 Average Discount %
 
 Delivery Status KPIs
+<img width="1346" height="751" alt="Page1_executive_overview" src="https://github.com/user-attachments/assets/8a72f357-7d43-45af-995d-7d0f37c2ba83" />
+
 
 2️⃣ Operations & Delivery Analysis
 
@@ -100,6 +104,8 @@ On-time vs Delayed deliveries
 Delivery performance trends
 
 Order volume analysis
+<img width="1283" height="749" alt="Page2_operations_delivery" src="https://github.com/user-attachments/assets/4e41e072-a1ca-4380-b8c1-4ef7b499f90a" />
+
 
 3️⃣ Customer & Product Insights
 
@@ -108,6 +114,8 @@ Top customers by revenue
 Category-wise profit
 
 High-profit vs low-profit products
+<img width="1326" height="750" alt="Page3_customer_product_insights" src="https://github.com/user-attachments/assets/7a3504c2-b62c-4956-9beb-37a6bdb5e44d" />
+
 
 4️⃣ Strategic & Profitability Analysis
 
@@ -116,10 +124,9 @@ Discount vs profit impact
 High revenue but low profit categories
 
 Risk-based product analysis
+<img width="1328" height="744" alt="Page4_profitability_strategy" src="https://github.com/user-attachments/assets/aca2fdf7-2284-405a-b431-4038083d2d1a" />
 
-📷 Dashboard Preview
 
-Screenshots are available in the dashboards/ folder.
 
 📁 Repository Structure
 E-Commerce-Intelligence-System/
@@ -141,6 +148,7 @@ KPI & DAX Calculations
 Business-oriented dashboard design
 
 End-to-end analytics workflow
-"C:\Users\abina\Downloads\Dashboards"
 
+
+#DataAnalyst #PowerBI #SQL #PostgreSQL #BusinessIntelligence #DataAnalytics #Dashboard #KPIs
 
